@@ -103,7 +103,7 @@ pip install jupyter_nbextensions_configurator
 * Run a Jupyter notebook server (be sure to be at the tutorial's folder -- `cd path/to/folder/`). A browser window should open up for you.
 
 ```
-jupyter lab
+jupyter lab test
 ```
 
 ---
